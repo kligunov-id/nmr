@@ -28,6 +28,10 @@ This folder contains the data we were given to analyse. Each folder inside it co
 
 This folder primarily contains videos describing how to work with the main notebook.
 
+### Images
+
+This folder contains various illustrations or spectrums related to project
+
 ## License
 
 The software and resources are provided "AS IS", with no warranty of any kind. I am not responsible for a low grade, missed deadline or brain damage resulted from the use of this repository's content.
