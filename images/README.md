@@ -10,3 +10,7 @@ This folder contains various illustrations and graphs.
     Peak splittings displayed in orange.
     Peak integrals displayed in purple, and add up to 12 (12 being the total number of H atoms in the molecule)
 
+2. [chemical_shifts.png](chemical_shifts.png)
+
+   Table of chemical shifts for hydrogen atoms in various configurations inside organic molecules.
+
