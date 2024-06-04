@@ -18,7 +18,7 @@ This folder contains various illustrations and graphs.
 
     Illustration of the structure that chemical number 2 turn out to have.
 
-4. [sources](sources)
+4. [sources/](sources)
 
-    Folder containing source Inkscape fiels for the hand-drawn pictures
+    Folder containing source Inkscape files for the hand-drawn pictures
 
