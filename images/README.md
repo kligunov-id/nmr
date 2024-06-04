@@ -12,5 +12,13 @@ This folder contains various illustrations and graphs.
 
 2. [chemical_shifts.png](chemical_shifts.png)
 
-   Table of chemical shifts for hydrogen atoms in various configurations inside organic molecules.
+    Table of chemical shifts for hydrogen atoms in various configurations inside organic molecules.
+
+3. [butyl_acetate.png](butyl_acetate.png)
+
+    Illustration of the structure that chemical number 2 turn out to have.
+
+4. [sources](sources)
+
+    Folder containing source Inkscape fiels for the hand-drawn pictures
 
